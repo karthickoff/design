@@ -32,9 +32,10 @@ label{
     margin-left: 200px;
     font-weight: 500;
 } 
-input{
-    width: 10%; 
-    margin: 10px;  
-    border: 1px solid black;
-    border-radius: 8px;
+.progress{
+    height: 0.4rem !important;
+}
+.otpbox{
+    width: 30px; 
+    margin: 0px 10px;
 }
